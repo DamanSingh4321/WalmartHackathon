@@ -44,7 +44,7 @@ public class MainActivity extends FragmentActivity {
 
         @Override
         public Fragment getItem(int position) {
-            return new Fragment();
+            return new WebViewFragment();
         }
 
         @Override

@@ -2785,19 +2785,20 @@ containing a value of this type.
         public static final int design_navigation_item_subheader=0x7f030024;
         public static final int design_navigation_menu=0x7f030025;
         public static final int design_navigation_menu_item=0x7f030026;
-        public static final int notification_media_action=0x7f030027;
-        public static final int notification_media_cancel_action=0x7f030028;
-        public static final int notification_template_big_media=0x7f030029;
-        public static final int notification_template_big_media_narrow=0x7f03002a;
-        public static final int notification_template_lines=0x7f03002b;
-        public static final int notification_template_media=0x7f03002c;
-        public static final int notification_template_part_chronometer=0x7f03002d;
-        public static final int notification_template_part_time=0x7f03002e;
-        public static final int ocr_capture=0x7f03002f;
-        public static final int select_dialog_item_material=0x7f030030;
-        public static final int select_dialog_multichoice_material=0x7f030031;
-        public static final int select_dialog_singlechoice_material=0x7f030032;
-        public static final int support_simple_spinner_dropdown_item=0x7f030033;
+        public static final int fragment_web_view=0x7f030027;
+        public static final int notification_media_action=0x7f030028;
+        public static final int notification_media_cancel_action=0x7f030029;
+        public static final int notification_template_big_media=0x7f03002a;
+        public static final int notification_template_big_media_narrow=0x7f03002b;
+        public static final int notification_template_lines=0x7f03002c;
+        public static final int notification_template_media=0x7f03002d;
+        public static final int notification_template_part_chronometer=0x7f03002e;
+        public static final int notification_template_part_time=0x7f03002f;
+        public static final int ocr_capture=0x7f030030;
+        public static final int select_dialog_item_material=0x7f030031;
+        public static final int select_dialog_multichoice_material=0x7f030032;
+        public static final int select_dialog_singlechoice_material=0x7f030033;
+        public static final int support_simple_spinner_dropdown_item=0x7f030034;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f050000;
@@ -2855,18 +2856,19 @@ containing a value of this type.
         public static final int common_open_on_phone=0x7f050024;
         public static final int common_signin_button_text=0x7f050025;
         public static final int common_signin_button_text_long=0x7f050026;
-        public static final int low_storage_error=0x7f050038;
-        public static final int no_camera_permission=0x7f050039;
-        public static final int ocr_error=0x7f05003a;
-        public static final int ocr_failure=0x7f05003b;
-        public static final int ocr_header=0x7f05003c;
-        public static final int ocr_success=0x7f05003d;
-        public static final int ok=0x7f05003e;
-        public static final int permission_camera_rationale=0x7f05003f;
-        public static final int read_text=0x7f050040;
+        public static final int hello_blank_fragment=0x7f050038;
+        public static final int low_storage_error=0x7f050039;
+        public static final int no_camera_permission=0x7f05003a;
+        public static final int ocr_error=0x7f05003b;
+        public static final int ocr_failure=0x7f05003c;
+        public static final int ocr_header=0x7f05003d;
+        public static final int ocr_success=0x7f05003e;
+        public static final int ok=0x7f05003f;
+        public static final int permission_camera_rationale=0x7f050040;
+        public static final int read_text=0x7f050041;
         public static final int status_bar_notification_info_overflow=0x7f050027;
-        public static final int title_activity_main=0x7f050041;
-        public static final int use_flash=0x7f050042;
+        public static final int title_activity_main=0x7f050042;
+        public static final int use_flash=0x7f050043;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f07008c;
@@ -4187,6 +4189,74 @@ containing a value of this type.
           @attr name com.google.android.gms.samples.vision.barcodereader:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
+        /** Attributes that can be used with a AppCompatTextHelper.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableBottom android:drawableBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableEnd android:drawableEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableLeft android:drawableLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableRight android:drawableRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableStart android:drawableStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableTop android:drawableTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_textAppearance android:textAppearance}</code></td><td></td></tr>
+           </table>
+           @see #AppCompatTextHelper_android_drawableBottom
+           @see #AppCompatTextHelper_android_drawableEnd
+           @see #AppCompatTextHelper_android_drawableLeft
+           @see #AppCompatTextHelper_android_drawableRight
+           @see #AppCompatTextHelper_android_drawableStart
+           @see #AppCompatTextHelper_android_drawableTop
+           @see #AppCompatTextHelper_android_textAppearance
+         */
+        public static final int[] AppCompatTextHelper = {
+            0x01010034, 0x0101016d, 0x0101016e, 0x0101016f,
+            0x01010170, 0x01010392, 0x01010393
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableBottom}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableBottom
+        */
+        public static final int AppCompatTextHelper_android_drawableBottom = 2;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableEnd}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableEnd
+        */
+        public static final int AppCompatTextHelper_android_drawableEnd = 6;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableLeft}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableLeft
+        */
+        public static final int AppCompatTextHelper_android_drawableLeft = 3;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableRight}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableRight
+        */
+        public static final int AppCompatTextHelper_android_drawableRight = 4;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableStart}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableStart
+        */
+        public static final int AppCompatTextHelper_android_drawableStart = 5;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableTop}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableTop
+        */
+        public static final int AppCompatTextHelper_android_drawableTop = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:textAppearance
+        */
+        public static final int AppCompatTextHelper_android_textAppearance = 0;
         /** Attributes that can be used with a AppCompatTextView.
            <p>Includes the following attributes:</p>
            <table>
