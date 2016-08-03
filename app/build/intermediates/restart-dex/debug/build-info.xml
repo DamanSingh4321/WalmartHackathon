@@ -4,90 +4,27 @@
     api-level="24"
     density="420dpi"
     format="7"
-    timestamp="203057501892715"
+    timestamp="206587176486934"
     token="7393363400372507082" >
 
     <task
         name="javac"
-        duration="682" />
+        duration="564" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="150" />
+        duration="74" />
     <task
         name="verifier"
-        duration="4" />
+        duration="14" />
 
     <artifact
         location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
     <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_75a46a3653cedc22b901245d3e8f515ad85addbf/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_cc08a70cfaf321809afdcb9e62d976565aa876a7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_314ccf45adfd0ec4c89fe21080fcf0c0a94bb0c1/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_47b9d82dcea69b9cb9730bea623ac922b09f735f/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_f59ff9aa329e87f0c5424e4bfd23b3e8b484dd80/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_a3761db5a04a9ca5897822918c55284801d3687a/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21b9114ce6118edb660367819d77498986624d89/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_2c6645127f7ebfb49862cd45956d951f5e03954d/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_7ea3a3341939f0d723fa3e41fcc60e7689c10756/classes.dex"
-        type="DEX" />
-    <artifact
         location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_4612ce9ce5196f096906350a4f5f00186bec9c2c/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_90448562554f2de7b4babb5cccd1ad99a6ed8c36/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0745917079569f3fc5e295c9f5a4f08065eb9bac/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_b1a4adceb39f329b779da8d71296ebae05b67afb/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_935b7390445237b3f4cb56603efb34a4315647dc/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
         type="DEX" />
     <artifact
         location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
@@ -96,80 +33,17 @@
         location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
         type="DEX" />
 
-    <build timestamp="202204431098109" >
+    <build timestamp="204442460454884" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="203057501892715" >
+    <build timestamp="206587176486934" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
         <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_75a46a3653cedc22b901245d3e8f515ad85addbf/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_cc08a70cfaf321809afdcb9e62d976565aa876a7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_314ccf45adfd0ec4c89fe21080fcf0c0a94bb0c1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_47b9d82dcea69b9cb9730bea623ac922b09f735f/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_f59ff9aa329e87f0c5424e4bfd23b3e8b484dd80/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_a3761db5a04a9ca5897822918c55284801d3687a/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21b9114ce6118edb660367819d77498986624d89/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_2c6645127f7ebfb49862cd45956d951f5e03954d/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_7ea3a3341939f0d723fa3e41fcc60e7689c10756/classes.dex"
-            type="DEX" />
-        <artifact
             location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_4612ce9ce5196f096906350a4f5f00186bec9c2c/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_90448562554f2de7b4babb5cccd1ad99a6ed8c36/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0745917079569f3fc5e295c9f5a4f08065eb9bac/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_b1a4adceb39f329b779da8d71296ebae05b67afb/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_935b7390445237b3f4cb56603efb34a4315647dc/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
             type="DEX" />
         <artifact
             location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"

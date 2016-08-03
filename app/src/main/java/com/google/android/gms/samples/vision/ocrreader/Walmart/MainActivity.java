@@ -25,13 +25,13 @@ public class MainActivity extends FragmentActivity {
         pager = (ViewPager) findViewById(R.id.mainViewPager);
         pagerAdapter = new ScreenSlidePagerAdapter(getSupportFragmentManager());
         pager.setAdapter(pagerAdapter);
+        pager.setCurrentItem(1);
 
         try {
             text = getIntent().getExtras().get("searchText").toString();
-        }catch (NullPointerException e){
+        } catch (NullPointerException e) {
             e.printStackTrace();
         }
-
 
 
     }
@@ -44,7 +44,24 @@ public class MainActivity extends FragmentActivity {
 
         @Override
         public Fragment getItem(int position) {
-            return new WebViewFragment();
+            switch (position) {
+                case 0:
+                    Bundle wikiBundle = new Bundle();
+                    wikiBundle.putString("urlText", text);
+                    WikiFragment wikiFrag = new WikiFragment();
+                    wikiFrag.setArguments(wikiBundle);
+                    return wikiFrag;
+                case 1:
+                    Bundle urlBundle = new Bundle();
+                    urlBundle.putString("urlText", text);
+                    WebViewFragment urlFrag = new WebViewFragment();
+                    urlFrag.setArguments(urlBundle);
+                    return urlFrag;
+                case 2:
+
+                    break;
+            }
+            return new WrongFragment();
         }
 
         @Override

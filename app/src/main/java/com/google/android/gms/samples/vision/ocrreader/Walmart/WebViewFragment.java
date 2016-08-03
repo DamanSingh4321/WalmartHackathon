@@ -6,6 +6,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
 
 import com.google.android.gms.samples.vision.ocrreader.R;
 
@@ -14,6 +16,8 @@ import com.google.android.gms.samples.vision.ocrreader.R;
  */
 public class WebViewFragment extends Fragment {
 
+    WebView webView;
+    String url = "";
 
     public WebViewFragment() {
         // Required empty public constructor
@@ -23,7 +27,20 @@ public class WebViewFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_web_view, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_web_view, container, false);
+
+        url = getArguments().getString("urlText");
+//        if (url != null) {
+//            url = url.replace(" ", "+");
+//        }
+
+        webView = (WebView) rootView.findViewById(R.id.webview);
+        WebSettings webSettings = webView.getSettings();
+        webSettings.setJavaScriptEnabled(true);
+        webView.loadUrl("https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=" + url + "&rh=i%3Aaps%2Ck%3A" + url);
+
+        return rootView;
+
     }
 
 }
