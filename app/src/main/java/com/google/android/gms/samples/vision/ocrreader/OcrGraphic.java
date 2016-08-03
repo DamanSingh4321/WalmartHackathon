@@ -73,13 +73,6 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
         return mText;
     }
 
-    /**
-     * Checks whether a point is within the bounding box of this graphic.
-     * The provided point should be relative to this graphic's containing overlay.
-     * @param x An x parameter in the relative context of the canvas.
-     * @param y A y parameter in the relative context of the canvas.
-     * @return True if the provided point is contained within this graphic's bounding box.
-     */
     public boolean contains(float x, float y) {
         if (mText == null) {
             return false;
@@ -110,11 +103,10 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
         canvas.drawRect(rect, sRectPaint);
 
         // Break the text into multiple lines and draw each one according to its own bounding box.
-        List<? extends Text> textComponents = mText.getComponents();
-        for(Text currentText : textComponents) {
-            float left = translateX(currentText.getBoundingBox().left);
-            float bottom = translateY(currentText.getBoundingBox().bottom);
-            canvas.drawText(currentText.getValue(), left, bottom, sTextPaint);
+//        List<? extends Text> textComponents = mText.getComponents();
+//        for(Text currentText : textComponents) {
+//            float left = translateX(currentText.getBoundingBox().left);
+//            float bottom = translateY(currentText.getBoundingBox().bottom);
+//            canvas.drawText(currentText.getValue(), left, bottom, sTextPaint);
         }
     }
-}
