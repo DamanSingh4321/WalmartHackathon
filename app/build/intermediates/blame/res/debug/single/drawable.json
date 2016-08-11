@@ -56,6 +56,10 @@
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable/abc_ic_search_api_material.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",

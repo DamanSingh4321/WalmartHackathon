@@ -68,20 +68,20 @@
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout/design_navigation_item.xml"
+        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
@@ -118,6 +118,10 @@
     {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/inflate_on_click.xml",
+        "source": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/res/layout/inflate_on_click.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",

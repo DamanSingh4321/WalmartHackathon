@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
 import com.google.android.gms.samples.vision.ocrreader.R;
 
@@ -19,9 +20,7 @@ public class WikiFragment extends Fragment {
     WebView wikiWeb;
     String wiki = "";
 
-    public WikiFragment() {
-        // Required empty public constructor
-    }
+    public WikiFragment() { }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -34,6 +33,17 @@ public class WikiFragment extends Fragment {
         wikiWeb = (WebView) rootView.findViewById(R.id.wikiWebview);
         WebSettings webSettings = wikiWeb.getSettings();
         webSettings.setJavaScriptEnabled(true);
+
+        wikiWeb.setWebViewClient(new WebViewClient() {
+
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                view.loadUrl(url);
+                return true;
+            }
+        });
+
+
         wikiWeb.loadUrl("https://en.wikipedia.org/wiki/"+wiki);
 
         return rootView;

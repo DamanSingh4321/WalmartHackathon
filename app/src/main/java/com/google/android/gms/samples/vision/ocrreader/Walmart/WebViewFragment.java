@@ -30,9 +30,6 @@ public class WebViewFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.fragment_web_view, container, false);
 
         url = getArguments().getString("urlText");
-//        if (url != null) {
-//            url = url.replace(" ", "+");
-//        }
 
         webView = (WebView) rootView.findViewById(R.id.webview);
         WebSettings webSettings = webView.getSettings();
@@ -43,7 +40,9 @@ public class WebViewFragment extends Fragment {
         //snapdeal format
         //http://www.walmart.com/search/?query=panasonic        walmart format
 
-        webView.loadUrl("https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=" + url + "&rh=i%3Aaps%2Ck%3A" + url);
+//        webView.loadUrl("https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=" + url + "&rh=i%3Aaps%2Ck%3A" + url);
+
+        webView.loadUrl("http://api.walmartlabs.com/v1/search?apiKey=paz7qrfkd8s8u8msfhpmh58z&query="+url);
 
         return rootView;
 
