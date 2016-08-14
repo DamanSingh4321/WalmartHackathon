@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/home/daman/AndroidStudioProjects/Walmart/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

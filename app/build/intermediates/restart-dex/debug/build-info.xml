@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="24"
-    density="420dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
     format="7"
-    timestamp="15350611961139"
-    token="7393363400372507082" >
+    timestamp="13625105472276"
+    token="-2601133998180631983" >
 
     <task
         name="javac"
-        duration="220" />
+        duration="1345" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="36" />
+        duration="354" />
     <task
         name="verifier"
-        duration="9" />
+        duration="66" />
 
     <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/home/daman/AndroidStudioProjects/Walmart/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="15284668957110" >
+    <build timestamp="13625105472276" >
         <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/outputs/apk/app-debug.apk"
+            location="/home/daman/AndroidStudioProjects/Walmart/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="15350611961139" >
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

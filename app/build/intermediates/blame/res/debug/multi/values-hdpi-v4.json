@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

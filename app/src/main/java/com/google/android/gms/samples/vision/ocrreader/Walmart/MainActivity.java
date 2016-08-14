@@ -58,8 +58,11 @@ public class MainActivity extends FragmentActivity {
                     urlFrag.setArguments(urlBundle);
                     return urlFrag;
                 case 2:
-
-                    break;
+                    Bundle compBundle = new Bundle();
+                    compBundle.putString("urlText", text);
+                    WrongFragment compFrag = new WrongFragment();
+                    compFrag.setArguments(compBundle);
+                    return compFrag;
             }
             return new WrongFragment();
         }

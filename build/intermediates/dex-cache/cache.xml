@@ -1,2 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_19204d62323c89da705a8ad4ba858eb4f5020ce6.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_cf6624733ff63d9c21fe026befa6502234140497.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_ea7e49c5fddd544381518bff980bb0c454ede21c.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_65bdbd73c9588bb546ab6b5e0788cd49bfb8ac20.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_66abad9dd670b4c82ce29e29342aadf2b737b3af.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_1e570f6989b95877c2c8ff42c39c703dd92f8195.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_15d91edb7c497782628002bfc3785bf1b305f09b.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_39a505600cce1784dd5484bd824c8ae687080d2b.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a56b484cfec7152d2adcce019ce7247edf79b2a7">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/instant-run_2994aad95d4f76c76cb4dfb8c598d5b8e74a3d0d.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_dd4fa6d9d494d967aa19444888740d6cb346a0f4.jar" />
+    </item>
+    <item
+        jar="/home/daman/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_7162552f11ec068f4a8b9e948c1e33b9ba0d484b.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_cbe421a14e54f445948fe783dd34e9e614afca98.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d4cf94486b1d87d63be7adf6b2aa80bfdbcc1be6">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_05ef75a96bd45926cc53fce2f9e1329f9319905a.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_106952d66ecae13851bc920d52a17cb05fd41613.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_f9f7ea0e14dcc769b52b7587ef838e95b70e5933.jar" />
+    </item>
+    <item
+        jar="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/daman/AndroidStudioProjects/Walmart/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0_db4e176b61adc84ac96d5f8d759ed555d9265ef7.jar" />
+    </item>
+
+</items>
